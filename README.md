@@ -1,6 +1,6 @@
-### Global GDP Trends Dashboard
-### End-to-End SQL Server & Power BI Analytics Project
-## by Mohammad Jawad Nayosh
+## Global GDP Trends Dashboard
+## End-to-End SQL Server & Power BI Analytics Project
+### by Mohammad Jawad Nayosh
 
 ## Project Overview
 This project shows how I take raw, messy data and turn it into a clean, interactive dashboard using SQL Server and Power BI — the way it’s done in real analytics environments.
